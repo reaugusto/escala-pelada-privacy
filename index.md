@@ -59,4 +59,4 @@ Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos qu
 ## 7. Contato
 Se você tiver dúvidas ou sugestões sobre esta Política de Privacidade, entre em contato conosco através do e-mail de suporte cadastrado na Google Play Store:
 
-* **E-mail:** [seu-email@suporte.com] *(substitua com seu e-mail real antes de publicar)*
+* **E-mail:** [renato.susa@rsousatech.com.br 
